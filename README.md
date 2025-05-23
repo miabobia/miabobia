@@ -1,4 +1,4 @@
-- 👩‍💻 I’m currently working on 🌱[Olive Gardens](https://github.com/miabobia/hydrate)🌱 (name tbd)
+- 👩‍💻 I’m currently working on 🌱[Olive Torrents](https://github.com/miabobia/olive_torrents)🌱
 - 📚 I’m currently reading [The Rust Programming Language](https://doc.rust-lang.org/book/)
 - 👯 I’m looking to collaborate on creating a torrent client
 - 💬 Ask me about ✨ cellular automata and algorithmic art in general ✨
